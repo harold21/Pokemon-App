@@ -23,10 +23,13 @@ Ensure you have the following installed on your system:
     cd pokemon-app
 
 3. Install the dependencies:
-    ```npm install
+    ```bash
+    npm install
 
 4. Start the development server:
-    ```npm start
+    ```bash
+    npm start
 
 5. Open your browser and go to:
-    ```http://localhost:3000
+    ```bash
+    http://localhost:3000
